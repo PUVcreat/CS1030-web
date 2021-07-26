@@ -1,4 +1,4 @@
-This is a template for a CS1030 web page project.
+universal studios florida customer reviews
 
 1. Copy this repository via "Use this template" (or Fork this repository)
 3. Enable GitHub Pages via the _Settings>Pages_ menu
